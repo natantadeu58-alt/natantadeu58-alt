@@ -5,13 +5,16 @@
 <p align="center">
   <a href="https://linkedin.com/in/natan-tadeu-dos-santos-coelho-896a473a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:natantadeu58@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  
+  <img src="https://img.shields.io/badge/Procurando-Est%C3%A1gio_em_TI-1f6feb?style=for-the-badge" alt="Procurando estágio em TI" />
+</p>
+
 ---
 
 ## Sobre
 
 Estudante de Engenharia de Software (UniCesumar, EAD) com foco em segurança da informação. Construo ferramentas em Python para análise de código, diagnóstico de redes e resposta a incidentes, e documento cada projeto com README e histórico de commits.
 
+Busco estágio em TI (desenvolvimento, segurança, infraestrutura e suporte).
 
 ---
 
@@ -59,7 +62,7 @@ Estudante de Engenharia de Software (UniCesumar, EAD) com foco em segurança da 
 | [live-host-triage](https://github.com/natantadeu58-alt/live-host-triage) | DFIR | Coleta evidências voláteis (processos, rede, ARP, persistência) antes do desligamento de um host e gera relatório com SHA-256 | Python (biblioteca padrão) |
 | [sentinel-code-ai](https://github.com/natantadeu58-alt/sentinel-code-ai) | AppSec | Kit de 4 ferramentas: auditor de código com IA (SAST), scanner LGPD, detector de phishing e extrator de logs | Python, Groq API, Regex |
 | [cyber-eye](https://github.com/natantadeu58-alt/cyber-eye) | Segurança de redes | Scanner de portas TCP com parecer de risco gerado por IA | Python, sockets, Groq API |
-| [devsecops-pipeline](https://github.com/natantadeu58-alt/devsecops-pipeline) | DevSecOps | Esteira com GitHub Actions que roda Bandit (SAST) e Safety (SCA) a cada alteração de código; detectou uma senha estática e um pacote vulnerável, corrigidos e revalidados pelo próprio pipeline | Python, GitHub Actions, Bandit, Safety |  
+| [devsecops-pipeline](https://github.com/natantadeu58-alt/devsecops-pipeline) | DevSecOps | Esteira com GitHub Actions que roda Bandit (SAST) e Safety (SCA) a cada alteração de código; detectou uma senha estática e um pacote vulnerável, corrigidos e revalidados pelo próprio pipeline | Python, GitHub Actions, Bandit, Safety |
 | [purple-team-command-injection](https://github.com/natantadeu58-alt/purple-team-command-injection) | Purple Team | Simulação de Command Injection em APIs e implementação das mitigações | Python |
 
 ### Linha do tempo
