@@ -1,68 +1,106 @@
-<div align="center">
-
-# Olá a todos, eu sou o Natan
-### Software Engineering Student | Python Developer focado em Cybersecurity & Automation
-
-Construo ferramentas de segurança automatizadas, scanners de rede e scripts inteligentes — sempre expandindo minha stack.
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/natan-tadeu-dos-santos-coelho-896a473a5/)
-[![Gmail](https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natantadeu58@gmail.com)
-
-</div>
-
----
-### Sobre mim
-
-- Estudante de Engenharia de Software
-- Foco atual em Python aplicado a **automação e segurança da informação**
-- Gosto de construir ferramentas próprias: scanners de rede, scripts de automação e mini utilitários de pentest
-- Aprendendo **Go (Golang)** para expandir pra automação de sistemas/backend
-- Pode me chamar pra falar sobre Python, cybersecurity, Linux ou automação
-- Fun fact: prefiro terminal a interface gráfica sempre que possível
-
----
-### Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=py,bash,linux,docker,git,github,vscode,go" />
+<p align="center">
+  <img src="./banner.svg" alt="Natan Tadeu dos Santos Coelho — Software Engineering Student | Cybersecurity | DFIR & AppSec | DevSecOps" width="100%" />
 </p>
 
-### Cyber Security & Automation Tools
-
-<p align="left">
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
+<p align="center">
+  <a href="https://linkedin.com/in/natan-tadeu-dos-santos-coelho-896a473a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:natantadeu58@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <img src="https://img.shields.io/badge/Procurando-Est%C3%A1gio_em_TI-1f6feb?style=for-the-badge" alt="Procurando estágio em TI" />
 </p>
 
 ---
-### Projetos em destaque
 
-- **[Injeção-Comando-Equipe-Roxa](https://github.com/natantadeu58-alt/Inje%C3%A7%C3%A3o-Comando-Equipe-Roxa)** — laboratório prático de Purple Team, com simulação de ataques de Red Team e mitigação/detecção de vulnerabilidades de Command Injection (Blue Team) via API.
-- **[devsecops-pipeline](https://github.com/natantadeu58-alt/devsecops-pipeline)** — pipeline com práticas de segurança integradas ao ciclo de desenvolvimento (DevSecOps).
-- **[Código-Sentinel-AI](https://github.com/natantadeu58-alt/C%C3%B3digo-Sentinel-AI)** — ferramenta em Python para leitura de redes, auditoria de segurança e análise inteligente de vulnerabilidades com IA.
-- **[cyber-eye](https://github.com/natantadeu58-alt/cyber-eye)** — ferramenta em Python para monitoramento de rede em tempo real, com detecção de tráfego suspeito e análise de logs de segurança.
+## Sobre
+
+Estudante de Engenharia de Software (UniCesumar, EAD) com foco em segurança da informação. Construo ferramentas em Python para análise de código, diagnóstico de redes e resposta a incidentes, e documento cada projeto com README e histórico de commits.
+
+Busco estágio em TI (desenvolvimento, segurança, infraestrutura e suporte).
 
 ---
-### Estatísticas do GitHub
 
-<p align="left">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=natantadeu58-alt&layout=compact&theme=dark&hide_border=true" height="165" />
+## Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/natantadeu58-alt/live-host-triage">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=natantadeu58-alt&repo=live-host-triage&theme=github_dark&hide_border=true" alt="live-host-triage" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/natantadeu58-alt/sentinel-code-ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=natantadeu58-alt&repo=sentinel-code-ai&theme=github_dark&hide_border=true" alt="sentinel-code-ai" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/natantadeu58-alt/cyber-eye">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=natantadeu58-alt&repo=cyber-eye&theme=github_dark&hide_border=true" alt="cyber-eye" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/natantadeu58-alt/devsecops-pipeline">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=natantadeu58-alt&repo=devsecops-pipeline&theme=github_dark&hide_border=true" alt="devsecops-pipeline" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/natantadeu58-alt/purple-team-command-injection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=natantadeu58-alt&repo=purple-team-command-injection&theme=github_dark&hide_border=true" alt="purple-team-command-injection" />
+      </a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+### Visão geral
+
+| Projeto | Área | O que faz | Tecnologias |
+|---|---|---|---|
+| [live-host-triage](https://github.com/natantadeu58-alt/live-host-triage) | DFIR | Coleta evidências voláteis (processos, rede, ARP, persistência) antes do desligamento de um host e gera relatório com SHA-256 | Python (biblioteca padrão) |
+| [sentinel-code-ai](https://github.com/natantadeu58-alt/sentinel-code-ai) | AppSec | Kit de 4 ferramentas: auditor de código com IA (SAST), scanner LGPD, detector de phishing e extrator de logs | Python, Groq API, Regex |
+| [cyber-eye](https://github.com/natantadeu58-alt/cyber-eye) | Segurança de redes | Scanner de portas TCP com parecer de risco gerado por IA | Python, sockets, Groq API |
+| [devsecops-pipeline](https://github.com/natantadeu58-alt/devsecops-pipeline) | DevSecOps | Pipeline que detecta senha estática e dependência vulnerável a cada alteração de código | GitHub Actions, Bandit, Safety |
+| [purple-team-command-injection](https://github.com/natantadeu58-alt/purple-team-command-injection) | Purple Team | Simulação de Command Injection em APIs e implementação das mitigações | Python |
+
+### Linha do tempo
+
+```mermaid
+timeline
+    title Evolução dos projetos em 2026
+    mai/2026 : Sentinel Code AI : Auditor de código com IA, scanner LGPD e detector de phishing
+    jul/2026 : cyber-eye : Scanner de portas com parecer de risco por IA
+    set/2026 : live-host-triage : Triagem forense de evidências voláteis
+```
+
+---
+
+## Competências
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,bash,linux,windows,git,github,githubactions,vscode" alt="Stack" />
 </p>
 
-<img src="https://streak-stats.demolab.com/?user=natantadeu58-alt&theme=dark&hide_border=true" height="165" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=natantadeu58-alt&theme=react-dark&hide_border=true" width="90%" />
+- **Linguagem e automação:** Python, Shell Scripting, Expressões Regulares
+- **Segurança:** OWASP, SAST e SCA, DFIR, LGPD, DevSecOps, Purple Team
+- **Sistemas e redes:** Linux, Windows, TCP, ARP, análise de logs
+- **Em estudo:** CompTIA Security+, AWS Cloud Security e Go
 
 ---
 
-<div align="center">
+## Estatísticas do GitHub
 
-### Vamos nos conectar
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=natantadeu58-alt&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natantadeu58-alt&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/natan-tadeu-dos-santos-coelho-896a473a5/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:natantadeu58@gmail.com)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=natantadeu58-alt&theme=github-dark&hide_border=true" alt="Sequência de contribuições" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=natantadeu58-alt&color=blue&style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natantadeu58-alt&theme=react-dark&hide_border=true&area=true" alt="Gráfico de atividade" />
+</p>
