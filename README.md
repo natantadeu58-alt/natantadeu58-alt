@@ -12,7 +12,6 @@
 
 Estudante de Engenharia de Software (UniCesumar, EAD) com foco em segurança da informação. Construo ferramentas em Python para análise de código, diagnóstico de redes e resposta a incidentes, e documento cada projeto com README e histórico de commits.
 
-Busco estágio em TI (desenvolvimento, segurança, infraestrutura e suporte).
 
 ---
 
