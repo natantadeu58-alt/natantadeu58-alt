@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="./banner.svg" alt="Natan Tadeu dos Santos Coelho — Software Engineering Student | Cybersecurity | DFIR & AppSec | DevSecOps" width="100%" />
-</p>
+<h1 align="center">Natan Tadeu dos Santos Coelho</h1>
+
+<p align="center"><b>Software Engineering Student | Cybersecurity | DFIR &amp; AppSec | DevSecOps</b></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/natan-tadeu-dos-santos-coelho-896a473a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:natantadeu58@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <img src="https://img.shields.io/badge/Procurando-Est%C3%A1gio_em_TI-1f6feb?style=for-the-badge" alt="Procurando estágio em TI" />
+ 
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 Estudante de Engenharia de Software (UniCesumar, EAD) com foco em segurança da informação. Construo ferramentas em Python para análise de código, diagnóstico de redes e resposta a incidentes, e documento cada projeto com README e histórico de commits.
 
-Busco estágio em TI (desenvolvimento, segurança, infraestrutura e suporte).
+
 
 ---
 
@@ -67,13 +67,11 @@ Busco estágio em TI (desenvolvimento, segurança, infraestrutura e suporte).
 
 ### Linha do tempo
 
-```mermaid
-timeline
-    title Evolução dos projetos em 2026
-    mai/2026 : Sentinel Code AI : Auditor de código com IA, scanner LGPD e detector de phishing
-    jul/2026 : cyber-eye : Scanner de portas com parecer de risco por IA
-    set/2026 : live-host-triage : Triagem forense de evidências voláteis
-```
+| Mês | Projeto | Área |
+|---|---|---|
+| Mai/2026 | Sentinel Code AI | AppSec |
+| Jul/2026 | cyber-eye | Segurança de redes |
+| Set/2026 | live-host-triage | DFIR |
 
 ---
 
