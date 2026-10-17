@@ -93,14 +93,6 @@ timeline
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=natantadeu58-alt&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=natantadeu58-alt&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true" alt="Commits no último ano" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natantadeu58-alt&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=natantadeu58-alt&theme=github-dark&hide_border=true" alt="Sequência de contribuições" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natantadeu58-alt&theme=react-dark&hide_border=true&area=true" alt="Gráfico de atividade" />
 </p>
