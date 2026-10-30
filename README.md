@@ -12,7 +12,7 @@
 
 ## Sobre
 
-Estudante de Engenharia de Software (UniCesumar, EAD) com foco em segurança da informação. Construo ferramentas em Python para análise de código, diagnóstico de redes e resposta a incidentes, e documento cada projeto com README e histórico de commits.
+Estudante de Engenharia de Software (UniCesumar, EAD) com foco em segurança da informação. Construo ferramentas e APIs em Python para análise de código, diagnóstico e detecção de anomalias em redes e resposta a incidentes, e documento cada projeto com README e histórico de commits.
 
 Busco estágio em TI (desenvolvimento, segurança, infraestrutura e suporte).
 
@@ -20,50 +20,14 @@ Busco estágio em TI (desenvolvimento, segurança, infraestrutura e suporte).
 
 ## Projetos em destaque
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/natantadeu58-alt/live-host-triage">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=natantadeu58-alt&repo=live-host-triage&theme=github_dark&hide_border=true" alt="live-host-triage" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/natantadeu58-alt/sentinel-code-ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=natantadeu58-alt&repo=sentinel-code-ai&theme=github_dark&hide_border=true" alt="sentinel-code-ai" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/natantadeu58-alt/cyber-eye">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=natantadeu58-alt&repo=cyber-eye&theme=github_dark&hide_border=true" alt="cyber-eye" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/natantadeu58-alt/devsecops-pipeline">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=natantadeu58-alt&repo=devsecops-pipeline&theme=github_dark&hide_border=true" alt="devsecops-pipeline" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/natantadeu58-alt/purple-team-command-injection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=natantadeu58-alt&repo=purple-team-command-injection&theme=github_dark&hide_border=true" alt="purple-team-command-injection" />
-      </a>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
-
-### Visão geral
-
 | Projeto | Área | O que faz | Tecnologias |
 |---|---|---|---|
-| [live-host-triage](https://github.com/natantadeu58-alt/live-host-triage) | DFIR | Coleta evidências voláteis (processos, rede, ARP, persistência) antes do desligamento de um host e gera relatório com SHA-256 | Python (biblioteca padrão) |
+| [live-host-triage](https://github.com/natantadeu58-alt/live-host-triage) | DFIR | Coleta evidências voláteis (processos, rede, ARP, persistência) antes do desligamento de um host e gera um relatório compactado com SHA-256 dos executáveis suspeitos | Python (biblioteca padrão) |
 | [sentinel-code-ai](https://github.com/natantadeu58-alt/sentinel-code-ai) | AppSec | Kit de 4 ferramentas: auditor de código com IA (SAST), scanner LGPD, detector de phishing e extrator de logs | Python, Groq API, Regex |
 | [cyber-eye](https://github.com/natantadeu58-alt/cyber-eye) | Segurança de redes | Scanner de portas TCP com parecer de risco gerado por IA | Python, sockets, Groq API |
 | [devsecops-pipeline](https://github.com/natantadeu58-alt/devsecops-pipeline) | DevSecOps | Esteira com GitHub Actions que roda Bandit (SAST) e Safety (SCA) a cada alteração de código; detectou uma senha estática e um pacote vulnerável, corrigidos e revalidados pelo próprio pipeline | Python, GitHub Actions, Bandit, Safety |
 | [purple-team-command-injection](https://github.com/natantadeu58-alt/purple-team-command-injection) | Purple Team | Simulação de Command Injection em APIs e implementação das mitigações | Python |
+| [AG-STEP](https://github.com/natantadeu58-alt/AG-STEP) | Segurança de redes e IA | API assíncrona que recebe métricas de tráfego de rede e usa Isolation Forest para detectar anomalias, devolvendo `is_anomaly` e `anomaly_score` | Python, FastAPI, scikit-learn |
 
 ### Linha do tempo
 
@@ -78,19 +42,31 @@ Busco estágio em TI (desenvolvimento, segurança, infraestrutura e suporte).
 ## Competências
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,bash,linux,windows,git,github,githubactions,vscode" alt="Stack" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 - **Linguagem e automação:** Python, Shell Scripting, Expressões Regulares
 - **Segurança:** OWASP, SAST e SCA, DFIR, LGPD, DevSecOps, Purple Team
 - **Sistemas e redes:** Linux, Windows, TCP, ARP, análise de logs
-- **Em estudo:** CompTIA Security+, AWS Cloud Security e Go
+- **APIs e IA:** FastAPI, scikit-learn (detecção de anomalias), integração de LLMs via API
+- **Ferramentas:** Git, GitHub, GitHub Actions, VS Code
+
+## Em estudo
+
+CompTIA Security+, AWS Cloud Security e Go.
 
 ---
 
-## Estatísticas do GitHub
+## Contato
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=natantadeu58-alt&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true" alt="Commits no último ano" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natantadeu58-alt&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
-</p>
+- LinkedIn: [linkedin.com/in/natan-santos-coelho](https://www.linkedin.com/in/natan-santos-coelho)
+- E-mail: [natantadeu58@gmail.com](mailto:natantadeu58@gmail.com)
